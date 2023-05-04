@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Contacts from "./components/Contacts";
 import Experience from "./components/Experience";
+import profile from "./components/profile.jpg";
 
 function App() {
   return (
