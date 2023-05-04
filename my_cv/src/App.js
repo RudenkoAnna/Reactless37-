@@ -1,8 +1,16 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Contacts from "./components/Contacts";
+import Experience from "./components/Experience";
 
 function App() {
-  return <h1>Hello, React</h1>;
+  return (
+    <div id="basic" className="contact-info">
+      <h1>Hello, React</h1>
+      <Contacts />
+      <Experience />
+    </div>
+  );
 }
 
 export default App;

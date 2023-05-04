@@ -1,4 +1,4 @@
-function Experience() {
+export default function Experience() {
   return (
     <div className="experience">
       <h2>Work Experience</h2>
