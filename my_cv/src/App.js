@@ -6,7 +6,7 @@ import Experience from "./components/Experience";
 function App() {
   return (
     <div id="basic" className="contact-info">
-      <h1>Hello, React</h1>
+      <h1>Rudenko Anna</h1>
       <Contacts />
       <Experience />
     </div>
